@@ -10,17 +10,17 @@ int main()
 		
 //***********************************************
 
-	cout<<"\nMatrix b is:\n";
 	int b[5]={3,4}; 
-	
+	cout<<"\nMatrix b is:\n";
+
 	for (int i=0;i<=4;i++)
 		cout<<b[i]<<",";
 
 //***********************************************
 
+	int c[5];
 	cout<<"\nMatrix c is:\n";
-	int c[5]; 
-	
+ 	
 	for (int i=0;i<=4;i++)
 		c[i]=1;
 		
