@@ -1,3 +1,4 @@
+//Four basic mathematical operations using functions.
 #include <iostream>
 using namespace std;
 
