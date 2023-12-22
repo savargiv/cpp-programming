@@ -12,8 +12,7 @@ int main()
 	int a, b, max;
 	cout<<"enter your digits: ";
 	cin>>a>>b;
-	max = maximum(a,b);
-	cout<<"max is: "<<max;
+	cout<<"max is: "<<maximum(a,b);
 
 	getchar();
 	return 0;
