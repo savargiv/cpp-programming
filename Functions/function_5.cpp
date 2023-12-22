@@ -1,6 +1,5 @@
 //Local and global variables
 #include <iostream>
-//local & global variables
 using namespace std;
 int g; // global variable
 int F1(int a, int b)
