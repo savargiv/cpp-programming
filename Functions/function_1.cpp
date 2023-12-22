@@ -1,6 +1,7 @@
 #include <iostream>
 /*
-		Print a desired message in the output
+		Print a desired message in the output	
+  		using a function, without returning a value
 */
 using namespace std;
 
